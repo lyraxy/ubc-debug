@@ -8,5 +8,6 @@ namespace ubcdebug
 {
     class Class1
     { 
+        //place comment here
     }
 }
